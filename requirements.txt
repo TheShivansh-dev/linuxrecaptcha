@@ -1,0 +1,4 @@
+Flask==3.0.0
+Flask-Cors==4.0.0
+asyncio==3.4.3
+playwright==1.48.0
